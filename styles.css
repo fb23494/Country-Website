@@ -21,3 +21,8 @@ body{
     text-decoration: none;
     color: rgb(0, 0, 0)
 }
+
+.imgs{
+    width: 25vw;
+    height: auto;
+}
